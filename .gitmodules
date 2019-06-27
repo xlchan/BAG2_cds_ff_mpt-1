@@ -3,7 +3,7 @@
 	url = https://github.com/edwardcwang/BAG_framework.git
 [submodule "laygo"]
 	path = laygo
-	url = https://github.com/ucb-art/laygo.git
+	url = https://github.com/xlchan/laygo.git
 [submodule "BAG2_TEMPLATES_EC"]
 	path = BAG2_TEMPLATES_EC
 	url = https://github.com/xlchan/BAG2_TEMPLATES_EC.git
